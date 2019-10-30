@@ -6,6 +6,7 @@ main()
 	printf("enter the dgreee of angle");
 	scanf("%d",&n);
 	printf("value of sin(%d)=%f",n,cal(n));
+	// kya mst code hai
 	
 }
 float cal(int a)
